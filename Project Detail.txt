@@ -5,6 +5,7 @@ PROJECT DETAIL*
 <====================================================>
 This is the school project to create a website
 PROJECT NAME : Website Rumah Sakit
+PROJECT OWNER : Muhammad Andra Maulana
 <====================================================>
 *PROJECT TEAM*
 <====================================================>
