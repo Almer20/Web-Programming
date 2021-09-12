@@ -1,9 +1,10 @@
 This project was initiated by Muhammad Andra Maulana from Politeknik Negeri Lhokseumawe.
 
 <====================================================>
-*PROJECT DETAIL*
+PROJECT DETAIL*
 <====================================================>
 This is the school project to create a website
+PROJECT NAME : Website Rumah Sakit
 <====================================================>
 *PROJECT TEAM*
 <====================================================>
